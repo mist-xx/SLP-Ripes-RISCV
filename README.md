@@ -1,5 +1,5 @@
 # SLP-Ripes-RISCV
-### This is an ASM program to implement a single-layer perceptron realization of logic gates.
+### This is an ASM program implemented on RIPES to implement a single-layer perceptron realization of logic gates. 
 
 This project realizes AND, NOT and OR logic gates. 
 
